@@ -1,4 +1,4 @@
-# AWESOME AI Tools
+# NOT AWESOME AI Tools
 
 ![Banner](https://raw.githubusercontent.com/JMcrafter26/awesome-ai-tools/main/.github/banner.jpg)
 
