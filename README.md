@@ -1,8 +1,6 @@
 # AWESOME AI Tools
 
-
 ![Banner](https://raw.githubusercontent.com/JMcrafter26/awesome-ai-tools/main/.github/banner.jpg)
-
 
 A list of AWESOME AI tools on Github
 
