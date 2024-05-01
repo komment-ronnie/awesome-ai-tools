@@ -5,7 +5,6 @@
 
 
 
-
 A list of AWESOME AI tools on Github
 
 *This list was created a few days ago and does not contain that many tools, so please consider helping to expand the list*
