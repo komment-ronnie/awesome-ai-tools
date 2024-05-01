@@ -8,6 +8,7 @@ A list of AWESOME AI tools on Github
 
 <div>Table of contents: <a href="#text-generation">Text generation</a> | <a href="#image-generation">Image generation</a> | <a href="#music-generation">Music generation</a> | <a href="#image-enchancer">Image enchancer</a> | <a href="#voice-changer-cloner">Voice changer/cloner</a> | <a href="#troubleshooting">LLM Observability</a> | <a href="#Videi-generation">Video generation</a> | <a href="#how-to-contribute">How to contribute</a> | <a href="#thanks">Thanks</a> | <a href="#stats">Stats</a></div> 
 
+
 ## Text generation
 
 <a href="https://github.com/nomic-ai/gpt4all" ><img src="https://opengraph.githubassets.com/727/nomic-ai/gpt4all" ></a>
