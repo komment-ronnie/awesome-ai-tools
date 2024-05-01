@@ -1,5 +1,5 @@
 const fn = () => {
-    console.log("a");
+    console.log("b");
 }
 
 const fn = () => {
